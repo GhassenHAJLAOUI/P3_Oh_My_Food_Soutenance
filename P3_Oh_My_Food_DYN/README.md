@@ -40,7 +40,7 @@ Le site  Ohmyfood! est une entreprise de commande de repas en ligne. Le concept 
 - Le code est structuré avec l'utilisation du pré-processeur SASS, et son architecture le PATTERN -1.
 - La version du projet a été réalisée en partie sur le navigateur Chrome en version MOBILE-FIRST, puis adapté dans un second temps pour les tablettes, puis les écrans et très grands écrans .
 - Le code ne contient aucune erreur au validateur W3C HTML et CSS.
-- Le code a été versionner sur GIT et déployé sur GITHUB a l'addresse suivante https://github.com/GhassenHAJLAOUI/P3-Oh-My-Food 
+- Le code a été versionner sur GIT et déployé sur GITHUB a l'addresse suivante https://github.com/GhassenHAJLAOUI/P3_Oh_My_Food_Soutenance/tree/main/P3_Oh_My_Food_DYN 
 
 ## Notes sur l'utilisation de mes outils
 
